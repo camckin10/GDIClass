@@ -1,0 +1,38 @@
+body{
+	background-color:#e6e6ff;
+}
+h1{
+	font-color:#3333ff;
+	font-family:Verdana;
+	text-transform:uppercase;
+
+}
+
+.interests{
+	color:yellow;
+}
+img{
+	width:190px;
+	height: 180px;
+}
+
+.galaxy bedroom {
+	background-color: blue;
+
+}
+.superhero{
+	background-color:pink;
+}
+
+p{
+
+	color:blue;
+	font-size:15px;
+	line-height: 2em;
+	padding:10px 7px 6px 5px;
+	border-top:2px solid blue;
+	border-bottom:4px dotted red;
+}
+#Bob{
+	color:red;
+}
